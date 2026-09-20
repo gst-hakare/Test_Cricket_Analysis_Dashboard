@@ -49,12 +49,11 @@ An interactive analytics dashboard built using **Tableau** to explore ball-by-ba
 ---
 
 ## 📂 Repository Structure
-
 ```text
 ├── data/
-│   └── cricket_data_sample.csv   # Aggregated dataset sample
+│   └── Test_cricket_data.zip     # Compressed dataset (extract to access CSV)
 ├── tableau/
-│   └── test_cricket_analysis.twbx # Packaged Tableau workbook
+│   └── Dashboard Test cricket analysis.twb # Packaged Tableau workbook
 ├── images/
-│   └── dashboard_preview.png     # Screenshot of the dashboard
+│   └── Test_cricket_analysis_dashboard.png     # Dashboard screenshot
 └── README.md
